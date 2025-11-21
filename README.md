@@ -1,2 +1,1 @@
-# RangkumanKahfi
-Tempat rangkum tugas "Modul Praktikum Basis Data"
+# Rangkuman dari <a href="file:///C:/Users/LENOVO/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/D9C69E31D28821249EE8B345A70ACB31B8EEC17E/transfers/2025-47/MODUL%20PRAKTIKUM%20BASIS%20DATA%20(1).pdf">MODUL PRAKTIKUM BASIS DATA.PDF</a>
